@@ -1,4 +1,4 @@
-# ✨ Personal Website — Designer & Creator
+#  Personal Website — Designer & Creator
 
 Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy ke GitHub Pages. Dibangun murni dengan HTML, CSS, dan JavaScript — tanpa framework, tanpa build tools.
 
@@ -6,18 +6,18 @@ Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy k
 
 ---
 
-## 🧩 Fitur
+##  Fitur
 
-- 🌗 Dark / light mode toggle (preferensi tersimpan otomatis di browser)
-- 📍 Navigasi aktif otomatis mengikuti section saat scroll
-- ✨ Animasi masuk yang halus di hero & tiap section
-- 💼 Daftar karya yang bisa langsung diklik menuju link proyek
-- 💬 Section testimoni untuk kredibilitas
-- 📱 Responsif penuh — rapi di desktop maupun HP
+-  Dark / light mode toggle (preferensi tersimpan otomatis di browser)
+-  Navigasi aktif otomatis mengikuti section saat scroll
+-  Animasi masuk yang halus di hero & tiap section
+-  Daftar karya yang bisa langsung diklik menuju link proyek
+-  Section testimoni untuk kredibilitas
+-  Responsif penuh — rapi di desktop maupun HP
 
 ---
 
-## 📁 Struktur File
+##  Struktur File
 
 ```
 ├── index.html         → Struktur & konten halaman
@@ -36,7 +36,7 @@ Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy k
 
 ---
 
-## ✍️ Cara Kustomisasi
+##  Cara Kustomisasi
 
 Semua yang perlu diganti ada di **`index.html`**:
 
@@ -54,21 +54,6 @@ Mau ganti warna aksen? Buka **`style.css`**, edit variabel di paling atas (`:roo
 ```css
 --accent: #2F4B7C;     /* warna aksen utama */
 --highlight: #F2B705;  /* warna highlight kecil */
-```
-
----
-
-## 🚀 Cara Upload ke GitHub Pages
-
-1. Buat repository baru di GitHub (misalnya `username.github.io` untuk domain utama, atau nama bebas untuk sub-path).
-2. Upload keempat file di atas ke root repo.
-3. Buka **Settings → Pages**.
-4. Pada **Source**, pilih branch `main` (folder `/root`) → **Save**.
-5. Tunggu 1-2 menit, situs akan live di:
-   - `https://username.github.io` (jika nama repo `username.github.io`), atau
-   - `https://username.github.io/nama-repo` (repo biasa).
-
----
 
 ## 🛠️ Dibangun dengan
 
